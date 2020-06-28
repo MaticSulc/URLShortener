@@ -1,4 +1,4 @@
-###URL Shortener
+# URL Shortener
 
 - [x] - alias DB insert
 - [x] - random UUID generation
